@@ -6,3 +6,5 @@ EMP (Excessively Magnetic Panel Mod)      [link](https://github.com/RaymondDoerr
 Horseshoe Spool Holder                   [link](https://mods.vorondesign.com/details/MXsHhiLlFH9bkIu9X7el5A)
 
 Beefy Z Idlers                            [link](https://github.com/clee/VoronBFI)
+
+Front idlers                              [link](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
